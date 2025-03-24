@@ -34,8 +34,8 @@ This tutorial is designed for:
 |------|---------|-------------|  
 | 13:30 - 14:15 | **Introduction** | Overview of tutorial goals, structure, and presenters |  
 | 14:15 - 15:00 | **Theoretical Foundations** | How LLMs enhance IIR, key concepts, and challenges |  
-| 15:00 - 15:45 | **Hands-on Session** | Setting up local LLMs, accessing APIs, and running experiments |  
-| 15:45 - 16:15 | **Break** | Short break |  
+| 15:00 - 15:30 | **Break** | Short break |  
+| 15:30 - 16:15 | **Hands-on Session** | Setting up local LLMs, accessing APIs, and running experiments |  
 | 16:15 - 16:45 | **Critical Evaluation** | Assessing LLM-based research in IIR, ethical and practical considerations |  
 | 16:45 - 17:00 | **Q&A & Wrap-up** | Discussion and key takeaways |  
 
