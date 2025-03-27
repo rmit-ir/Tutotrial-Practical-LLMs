@@ -5,7 +5,7 @@
 This half-day interactive tutorial introduces researchers to practical applications of **Large Language Models (LLMs) for Interactive Information Retrieval (IIR)**. Through hands-on exercises and real-world research scenarios, participants will learn:  
 
 - How to integrate LLMs via APIs  
-- How to evaluate their outputs in IIR settings  
+- Ways to evaluate their outputs in IIR settings  
 
 The tutorial will help attendees **choose suitable models for different research needs** and provide them with tools to enhance their work. No prior experience with LLMs is required, though familiarity with basic programming concepts is recommended.  
 
@@ -13,10 +13,10 @@ The tutorial will help attendees **choose suitable models for different research
 
 By the end of the tutorial, participants will:  
 
-✅ Understand the theoretical foundations of LLMs in IIR  
-✅ Gain hands-on experience in running LLMs locally and via APIs  
+✅ Cover basic theoretical foundations of LLMs in IIR  
+✅ Gain hands-on experience in running LLMs via APIs  
 ✅ Learn to use LLMs for real-world research tasks such as **query generation, document relevance assessment, and user interaction modeling**  
-✅ Develop a **critical perspective** on LLM capabilities, limitations, and ethical considerations  
+✅ Develop a **critical perspective** on LLM capabilities and limitations
 ✅ Stay updated on **recent advances in LLMs for search and retrieval**  
 
 ## Target Audience  
