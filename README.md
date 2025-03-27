@@ -30,14 +30,14 @@ This tutorial is designed for:
 
 ## Schedule
 
-| Time | Session | Description |  
-|------|---------|-------------|  
-| 13:30 - 14:15 | **Introduction and Theoretical Foundations** | Overview of tutorial goals, structure, and presenters |  
-| 14:15 - 15:00 | **Practical Skills (Challenge 1)** | How LLMs enhance IIR, key concepts, and challenges |  
-| 15:00 - 15:30 | **Break** | Short break |  
-| 15:30 - 16:15 | **Practical Skills (Challenge 2)** | Setting up local LLMs, accessing APIs, and running experiments |  
-| 16:15 - 16:45 | **Critical Evaluation** | Assessing LLM-based research in IIR, ethical and practical considerations |  
-| 16:45 - 17:00 | **Q&A & Wrap-up** | Discussion and key takeaways |  
+| Time          | Session           | Description                               |
+|---------------|-------------------|-------------------------------------------|
+| 13:30 - 14:15 | Part 1 (45 min)   | Introduction and theoretical foundations  |
+| 14:15 - 15:00 | Part 2a (45 min)  | Practical skills: Challenge 1             |
+| 15:00 - 15:30 | Break (30 min)    |                                           |
+| 15:30 - 16:15 | Part 2b (45 min)  | Practical skills: Challenge 2             |
+| 16:15 - 17:00 | Part 3 (45 min)   | Future IIR with LLMs                        |
+| 17:00 - …     |                   | 🍻🍵🧃🥤🍜🥘🦘                                |
 
 ## Tools and Requirements  
 
