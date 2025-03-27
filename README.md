@@ -16,7 +16,7 @@ By the end of the tutorial, participants will:
 ✅ Cover basic theoretical foundations of LLMs in IIR  
 ✅ Gain hands-on experience in running LLMs via APIs  
 ✅ Learn to use LLMs for real-world research tasks such as **query generation, document relevance assessment, and user interaction modeling**  
-✅ Develop a **critical perspective** on LLM capabilities and limitations
+✅ Develop a **critical perspective** on LLM capabilities and limitations  
 ✅ Stay updated on **recent advances in LLMs for search and retrieval**  
 
 ## Target Audience  
