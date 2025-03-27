@@ -4,7 +4,6 @@
 
 This half-day interactive tutorial introduces researchers to practical applications of **Large Language Models (LLMs) for Interactive Information Retrieval (IIR)**. Through hands-on exercises and real-world research scenarios, participants will learn:  
 
-- How to set up and run LLMs locally  
 - How to integrate LLMs via APIs  
 - How to evaluate their outputs in IIR settings  
 
@@ -42,7 +41,6 @@ This tutorial is designed for:
 ## Tools and Requirements  
 
 ### Tools Covered  
-- **Local LLMs** (e.g., [Ollama](https://ollama.com/), `llama.cpp`)  
 - **API-based LLMs** (e.g., OpenRouter, Amazon Bedrock)  
 
 ### Requirements  
