@@ -61,3 +61,8 @@ For questions or setup issues before the tutorial, feel free to reach out to:
 📩 [Oleg Zendel](mailto:oleg.zendel@rmit.edu.au?subject=[GitHub]%20CHIIR%20Tutorial%202025)
 
 📩 [Adam Roegiest](mailto:adam@roegiest.com?subject=[GitHub]%20CHIIR%20Tutorial%202025)
+
+## License
+
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), 
+and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
